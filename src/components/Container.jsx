@@ -1,5 +1,5 @@
 import React from 'react'
-import LeftSideBar from './LeftSideBar'
+import LeftSideBar from './LeftSide/LeftSideBar'
 import Content from './Content'
 import RightSideBar from './RightSideBar'
 
